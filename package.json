@@ -1,0 +1,24 @@
+{
+  "name": "express-portofolio",
+  "version": "1.0.0",
+  "description": "Web Portofolio dengan Express.js - Workshop #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadFariMadyan/express-portofolio-manual.git"
+  },
+  "author": "mfarim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadFariMadyan/express-portofolio-manual/issues"
+  },
+  "homepage": "https://github.com/MuhammadFariMadyan/express-portofolio-manual#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
